@@ -23,7 +23,7 @@ Several of these techniques require the knowledge base to be converted to clause
 ### Template of Inputs
 
 Taking the following problems as examples, they are all amenable to solution using Propositional Logic using both theorem proving and satisfiability testing approaches.
-Q1: Modus Ponens test. Knowledge base:
+    Q1: Modus Ponens test. Knowledge base:
     P => Q
     P
     Query: Q
